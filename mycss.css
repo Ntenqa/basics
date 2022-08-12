@@ -1,0 +1,48 @@
+header{
+    font-family:cursive;
+    color: pink;
+}
+ul{
+    list-style-type: none;
+    font-size: 100%;
+    font-family: cursive;
+}
+
+ul{
+    
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    
+    
+}
+ul :hover{
+    color:pink;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+  blockquote{
+    text-align: center;
+    font-size: larger;
+  }
+  .button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: pink;
+    border-radius: 50%;
+    border-radius: solid 1px white;
+    padding:15px 32px;
+    text-align: center;
+    font-size: 16px;
+    transition: all 0.2s;
+  }
+  .button a
